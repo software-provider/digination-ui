@@ -1,0 +1,75 @@
+{
+  "name": "@digination/digination-ui",
+  "version": "1.0.14",
+  "private": false,
+  "keyword": [
+    "Dapp",
+    "nft",
+    "vue",
+    "model",
+    "eth",
+    "ethers",
+    "ethers.js",
+    "web3js",
+    "3d",
+    "glb",
+    "digination",
+    "digination game",
+    "Metaverse",
+    "lands"
+  ],
+  "homepage": "https://github.com/digination-game/digination-ui",
+  "bugs": {
+    "url": "https://github.com/digination-game/digination-ui/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digination-game/digination-ui.git"
+  },
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "lib": "vue-cli-service build --target lib --name digination-ui  --dest lib packages/index.js"
+  },
+  "dependencies": {
+    "@coinbase/wallet-sdk": "^3.0.6",
+    "@google/model-viewer": "^1.9.0",
+    "@metamask/detect-provider": "^1.2.0",
+    "@walletconnect/web3-provider": "^1.7.7",
+    "core-js": "^3.4.4",
+    "vue": "^2.6.10",
+    "web3": "^1.7.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-plugin-eslint": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "sass": "^1.23.7",
+    "sass-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "@vue/standard"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "license": "MIT"
+}

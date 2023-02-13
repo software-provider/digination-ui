@@ -1,0 +1,58 @@
+{
+  "id": "3412265",
+  "name": "digination",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3876522",
+      "name": "medium",
+      "font_class": "medium",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "515111",
+      "name": "facebook_facebook52",
+      "font_class": "facebookfacebook52",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "15378903",
+      "name": "twitter",
+      "font_class": "twitter1",
+      "unicode": "eced",
+      "unicode_decimal": 60653
+    },
+    {
+      "icon_id": "27365027",
+      "name": "discord",
+      "font_class": "discord1",
+      "unicode": "ebf8",
+      "unicode_decimal": 60408
+    },
+    {
+      "icon_id": "1908250",
+      "name": "181 right arrow",
+      "font_class": "rightarrow",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "4765725",
+      "name": "close-circle",
+      "font_class": "close-circle",
+      "unicode": "e77d",
+      "unicode_decimal": 59261
+    },
+    {
+      "icon_id": "5354487",
+      "name": "48-Right-Arrow",
+      "font_class": "-Right-Arrow",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    }
+  ]
+}
